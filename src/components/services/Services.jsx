@@ -3,9 +3,7 @@ import "./services.css"
 
 function Services() {
     return (
-        <div>
-
-        </div>
+        <div>Services</div>
     )
 }
 
