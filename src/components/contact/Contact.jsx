@@ -26,14 +26,14 @@ const Contact = () => {
                         < MdOutlineEmail className='contact__option-icon' />
                         <h4>Email</h4>
                         <h5>tomas.brezinaaa@gmail.com</h5>
-                        <a href="mailto:tomas.brezinaaa@gmail.com" target="_blank">Send a message</a>
+                        <a href="mailto:tomas.brezinaaa@gmail.com" target="_blank" rel="noopener noreferrer">Send a message</a>
                     </article>
 
                     <article className="contact__option">
                         < RiMessengerLine className='contact__option-icon' />
                         <h4>Messenger</h4>
                         <h5>Tomáš Brežina</h5>
-                        <a href="http://m.me/100077557206348" target="_blank">Send a message</a>
+                        <a href="http://m.me/100077557206348" target="_blank" rel="noopener noreferrer">Send a message</a>
                     </article>
                 </div>
 

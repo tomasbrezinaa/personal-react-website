@@ -1,6 +1,5 @@
 import React from 'react'
 import "./about.css"
-import Photo from "../../assets/header_image.jpg"
 import { TbSchool } from "react-icons/tb"
 import { BiCodeAlt } from "react-icons/bi"
 import { BsFillPersonFill } from "react-icons/bs"
