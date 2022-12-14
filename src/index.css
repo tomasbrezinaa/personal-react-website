@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-pozadie: #1f1f38;
-    --color-pozadie-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-pozadie: black;
+    --color-pozadie-variant: #3C4048;
+    --color-primary: #678983;
+    --color-primary-variant: #678983;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -38,7 +38,7 @@ body {
     background: var(--color-pozadie);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(./assets/bg-texture.png);
+    background-image: url(".//assets/background.png");
 }
 
 /* === GENERAL STYLES === */
