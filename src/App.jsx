@@ -19,7 +19,6 @@ const App = () => {
             <Portfolio />
             <Contact />
             <Footer />
-            <Curriculum />
         </>
     )
 }
