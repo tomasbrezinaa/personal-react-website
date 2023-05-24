@@ -1,10 +1,9 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG1 from "../../assets/portfolio1.jpg"
-import IMG2 from "../../assets/portfolio2.png"
-import IMG1_2 from "../../assets/portfolio1_2.png"
-import IMG1_3 from "../../assets/portfolio1_3.png"
-import IMG2_2 from "../../assets/portfolio2_2.png"
+import IMG1 from "../../assets/portfolio_1.png"
+import IMG2 from "../../assets/portfolio_2.jpg"
+import IMG3 from "../../assets/portfolio_3.png"
+
 
 
 
@@ -12,41 +11,26 @@ const data = [
     {
         id: 1,
         image: IMG1,
-        title: '3D Printer on Web Responsive Website',
-        github: 'https://github.com/tomasbrezinaa/3d-tlac-web',
-        demo: 'https://www.3dtlacnawebe.me'
+        title: 'Body Mass Index(BMI) React App',
+        github: 'https://github.com/tomasbrezinaa/bmi-app',
+        demo: '//'
     },
 
     {
-        id: 1,
-        image: IMG1_2,
-        title: '3D Printer on Web Responsive Website',
-        github: 'https://github.com/tomasbrezinaa/3d-tlac-web',
-        demo: 'https://www.3dtlacnawebe.me'
-    },
-
-    {
-        id: 1,
-        image: IMG1_3,
-        title: '3D Printer on Web Responsive Website',
-        github: 'https://github.com/tomasbrezinaa/3d-tlac-web',
-        demo: 'https://www.3dtlacnawebe.me'
-    },
-
-    {
-        id: 1,
+        id: 2,
         image: IMG2,
-        title: 'NOTHING Phone (1) Specification Website',
-        github: 'https://github.com/tomasbrezinaa/nothing-phone-website',
-        demo: 'livedemo'
+        title: '3D Printer on Web Responsive Website',
+        github: 'https://github.com/tomasbrezinaa/3d-tlac-web',
+        demo: 'https://www.3dtlacnawebe.me'
     },
+
     {
-        id: 1,
-        image: IMG2_2,
-        title: 'NOTHING Phone (1) Specification Website',
+        id: 3,
+        image: IMG3,
+        title: 'Nothing Phone (1)',
         github: 'https://github.com/tomasbrezinaa/nothing-phone-website',
-        demo: 'livedemo'
-    },
+        demo: ''
+    }
 ]
 
 
