@@ -16,13 +16,13 @@ const About = () => {
                         <article className="about__card">
                             <TbSchool className='about__icon' />
                             <h5>Uni Student</h5>
-                            <small> 1 year</small>
+                            <small> 2 years</small>
                         </article>
 
                         <article className="about__card">
                             <BiCodeAlt className='about__icon ' />
                             <h5>Front End Developer</h5>
-                            <small>2 years</small>
+                            <small>3 years</small>
                         </article>
 
                         <article className="about__card">
@@ -32,8 +32,8 @@ const About = () => {
                         </article>
                     </div>
 
-                    <p>Hello there! My name is Tomáš Brežina, and I am a Computer Science student at the Slovak Technical University. In my free time I love to create websites and learning new programming languages and frameworks!<br></br>
-                        If you want to ask me something, the contact form is at the bottom of the page <span>😄</span>
+                    <p>Hello there<span role='img' aria-label='emoji'>👋🏼</span>! My name is Tomáš Brežina, and I am a Computer Science student at Comenius University.<br></br>
+                        If you want to cooperate , the contact form is at the bottom of the page.
                     </p>
                     <a href="#contact" className='btn btn-primary'>Let's talk</a>
                 </div>

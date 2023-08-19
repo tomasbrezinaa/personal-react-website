@@ -2,10 +2,6 @@ import React from 'react'
 import "./portfolio.css"
 import IMG1 from "../../assets/portfolio_1.png"
 import IMG2 from "../../assets/portfolio_2.jpg"
-import IMG3 from "../../assets/portfolio_3.png"
-
-
-
 
 const data = [
     {
@@ -22,14 +18,6 @@ const data = [
         title: '3D Printer on Web Responsive Website',
         github: 'https://github.com/tomasbrezinaa/3d-tlac-web',
         demo: 'https://www.3dtlacnawebe.me'
-    },
-
-    {
-        id: 3,
-        image: IMG3,
-        title: 'Nothing Phone (1)',
-        github: 'https://github.com/tomasbrezinaa/nothing-phone-website',
-        demo: ''
     }
 ]
 

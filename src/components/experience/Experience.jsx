@@ -27,7 +27,7 @@ function Experience() {
                             <BsPatchCheckFill className="experience__details-icon" />
                             <div>
                                 <h4>CSS</h4>
-                                <small className='text-light'>Intermediate</small>
+                                <small className='text-light'>Experienced</small>
                             </div>
                         </article>
 
@@ -43,7 +43,7 @@ function Experience() {
                             <BsPatchCheckFill className="experience__details-icon" />
                             <div>
                                 <h4>Bootstrap</h4>
-                                <small className='text-light'>Beginner</small>
+                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
 
@@ -54,6 +54,14 @@ function Experience() {
                                 <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
+
+                         <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon" />
+                            <div>
+                                <h4>Vue</h4>
+                                <small className='text-light'>Beginner</small>
+                            </div>
+                        </article>
                     </div>
                 </div>
 
@@ -62,6 +70,22 @@ function Experience() {
                 <div className="experience__backend">
                     <h3>Backend Development</h3>
                     <div className="experience__content">
+
+                         <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon" />
+                            <div>
+                                <h4>Node Js</h4>
+                                <small className='text-light'>Intermediate</small>
+                            </div>
+                        </article>
+
+                         <article className="experience__details">
+                            <BsPatchCheckFill className="experience__details-icon" />
+                            <div>
+                                <h4>Python</h4>
+                                <small className='text-light'>Intermediate</small>
+                            </div>
+                        </article>
 
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon" />
@@ -74,24 +98,8 @@ function Experience() {
                         <article className="experience__details">
                             <BsPatchCheckFill className="experience__details-icon" />
                             <div>
-                                <h4>node js</h4>
-                                <small className='text-light'>Beginner</small>
-                            </div>
-                        </article>
-
-                        <article className="experience__details">
-                            <BsPatchCheckFill className="experience__details-icon" />
-                            <div>
                                 <h4>PHP</h4>
                                 <small className='text-light'>Beginner</small>
-                            </div>
-                        </article>
-
-                        <article className="experience__details">
-                            <BsPatchCheckFill className="experience__details-icon" />
-                            <div>
-                                <h4>Python</h4>
-                                <small className='text-light'>Intermediate</small>
                             </div>
                         </article>
                     </div>
