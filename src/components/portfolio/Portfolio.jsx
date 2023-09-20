@@ -9,7 +9,7 @@ const data = [
         image: IMG1,
         title: 'Body Mass Index(BMI) React App',
         github: 'https://github.com/tomasbrezinaa/bmi-app',
-        demo: '//'
+        demo: 'https://tomasbrezinaa.github.io/bmi-app/'
     },
 
     {
